@@ -1,0 +1,4 @@
+Chess Project:
+This needs to be a fully functioning chess game.  The game needs to include a all viable rules for modern chess.  The program also needs to implement an AI running Alpha Beta pruning on it's decision tree.  The chess game needs options to set which player is an AI or not (i.e. human v human, human v ai, ai v ai).  
+
+****This doc will be updated as i think of new requirements.  Requirements will be finalized by 11/26
